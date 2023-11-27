@@ -1,5 +1,5 @@
 manifestVersion: 1
-id: cloudflared
+id: radiokot-cloudflared
 name: Cloudflare Tunnel client
 tagline: Access your Umbrel apps from the Internet using Cloudflare network
 icon: https://raw.githubusercontent.com/Radiokot/umbrel-cloudflared/main/static/logo.svg

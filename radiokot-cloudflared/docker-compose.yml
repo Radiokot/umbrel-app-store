@@ -3,7 +3,7 @@ version: "3.7"
 services:
   app_proxy:
     environment:
-      APP_HOST: cloudflared_web_1
+      APP_HOST: radiokot-cloudflared_web_1
       APP_PORT: 3000
 
   web:
@@ -15,7 +15,7 @@ services:
     volumes:
       - ${APP_DATA_DIR}/data:/app/data
     environment:
-      CLOUDFLARED_HOSTNAME: "cloudflared_connector_1"
+      CLOUDFLARED_HOSTNAME: "radiokot-cloudflared_connector_1"
       CLOUDFLARED_METRICS_PORT: "${APP_CLOUDFLARED_METRICS_PORT}"
       CLOUDFLARED_TOKEN_FILE: "/app/data/token"
 
