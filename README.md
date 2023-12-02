@@ -2,7 +2,7 @@
 
 App store URL:
 ```
-https://github.com/Radiokot/umbrel-radiokot-app-store.git
+https://github.com/Radiokot/umbrel-app-store.git
 ```
 
 To it to your Umbrel, follow the steps shown in this demo:
@@ -15,7 +15,7 @@ Alternatively, you can use the Umbrel CLI as described below:
 
 To add an app store:
 ```
-sudo ~/umbrel/scripts/repo add https://github.com/Radiokot/umbrel-radiokot-app-store.git
+sudo ~/umbrel/scripts/repo add https://github.com/Radiokot/umbrel-app-store.git
 
 sudo ~/umbrel/scripts/repo update
 ```
@@ -27,5 +27,5 @@ sudo ~/umbrel/scripts/app install app-name
 
 To remove an app store:
 ```
-sudo ~/umbrel/scripts/repo remove https://github.com/Radiokot/umbrel-radiokot-app-store.git
+sudo ~/umbrel/scripts/repo remove https://github.com/Radiokot/umbrel-app-store.git
 ```
