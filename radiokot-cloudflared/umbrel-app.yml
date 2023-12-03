@@ -24,9 +24,9 @@ submission: https://github.com/Radiokot/umbrel-cloudflared
 repo: https://github.com/Radiokot/umbrel-cloudflared
 support: https://github.com/Radiokot/umbrel-cloudflared/issues
 gallery:
-  - https://github.com/Radiokot/umbrel-cloudflared/blob/0f377f08ac8380ec5cd2e51702874841b465fefa/repository-assets/screen-1.png
-  - https://github.com/Radiokot/umbrel-cloudflared/blob/0f377f08ac8380ec5cd2e51702874841b465fefa/repository-assets/screen-2.png
-  - https://github.com/Radiokot/umbrel-cloudflared/blob/0f377f08ac8380ec5cd2e51702874841b465fefa/repository-assets/screen-3.png
+  - https://raw.githubusercontent.com/Radiokot/umbrel-cloudflared/0f377f08ac8380ec5cd2e51702874841b465fefa/repository-assets/screen-1.png
+  - https://raw.githubusercontent.com/Radiokot/umbrel-cloudflared/0f377f08ac8380ec5cd2e51702874841b465fefa/repository-assets/screen-2.png
+  - https://raw.githubusercontent.com/Radiokot/umbrel-cloudflared/0f377f08ac8380ec5cd2e51702874841b465fefa/repository-assets/screen-3.png
 releaseNotes: >-
   Check out the first version
 dependencies: []
