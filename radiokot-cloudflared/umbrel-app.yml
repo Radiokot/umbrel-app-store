@@ -28,7 +28,7 @@ gallery:
   - https://raw.githubusercontent.com/Radiokot/umbrel-cloudflared/0f377f08ac8380ec5cd2e51702874841b465fefa/repository-assets/screen-2.png
   - https://raw.githubusercontent.com/Radiokot/umbrel-cloudflared/0f377f08ac8380ec5cd2e51702874841b465fefa/repository-assets/screen-3.png
 releaseNotes: >-
-  The tunneling daemon (cloudflared) has been updated to 2024.6.1
+  The tunneling daemon (cloudflared) has been updated to 2025.2.0
 dependencies: []
 path: ""
 defaultUsername: ""
