@@ -40,3 +40,12 @@ dependencies: []
 path: ""
 defaultUsername: ""
 defaultPassword: ""
+widgets:
+  - id: status
+    type: three-stats
+    refresh: 15s
+    endpoint: radiokot-cloudflared-web:3000/api/widgets/status
+  - id: routes
+    type: list
+    refresh: 15s
+    endpoint: radiokot-cloudflared-web:3000/api/widgets/routes
